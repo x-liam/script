@@ -1,2 +1,2 @@
 # script
-Unarchived script files
+Unarchived script files.
